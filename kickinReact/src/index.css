@@ -11,6 +11,17 @@
   float: left;
   margin-left: 100px;
 }
+.container div.watchButton{
+  background-color: #c6c6c6;
+  color: #000;
+  max-width: 80px;
+  height: 15px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 0px;
+  cursor: pointer;
+}
 .parent{
   margin: 0 auto;
 }
