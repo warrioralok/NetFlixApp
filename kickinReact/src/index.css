@@ -9,6 +9,12 @@
   background: #000;
   padding: 20px;
   float: left;
+  margin-left: 100px;
+}
+.parent{
+  margin: 0 auto;
+}
+.container:nth-child(even){
   margin-left: 50px;
 }
 .container div{
