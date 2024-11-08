@@ -33,7 +33,7 @@ export const Footer = () => {
 
 export const Header = () =>{
     return(
-        <header>Logo</header>
+        <header><img src="https://loodibee.com/wp-content/uploads/Netflix-logo.png" alt="" /></header>
     )
 }
 export default NetFlix;
