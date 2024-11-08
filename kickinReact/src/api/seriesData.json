@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Stranger Things",
+      "rating": 8.7,
+      "description": "A group of kids uncover supernatural mysteries in their small town.",
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "imageUrl": "https://static.displate.com/280x392/displate/2022-09-05/93ae4c3445439f3a03981bd524f21cee_1b4f8508fc812603e658a6e6c9bb95d1.jpg",
+      "watchUrl": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "name": "The Witcher",
+      "rating": 8.2,
+      "description": "A monster hunter finds his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Fantasy", "Adventure", "Action"],
+      "imageUrl": "https://m.media-amazon.com/images/I/91MZ6THo-8L._AC_UF894,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "name": "Money Heist",
+      "rating": 8.3,
+      "description": "A criminal mastermind plans a major heist involving the Royal Mint of Spain.",
+      "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+      "genre": ["Crime", "Thriller", "Drama"],
+      "imageUrl": "https://m.media-amazon.com/images/I/81WSF164GOL._AC_UF894,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80192098"
+    },
+    {
+      "name": "Ozark",
+      "rating": 8.4,
+      "description": "A financial planner relocates his family to launder money for a drug cartel.",
+      "cast": ["Jason Bateman", "Laura Linney", "Julia Garner"],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imageUrl": "https://posterspy.com/wp-content/uploads/2022/03/Ozark-ok.jpg",
+      "watchUrl": "https://www.netflix.com/title/80117552"
+    },
+    {
+      "name": "The Crown",
+      "rating": 8.6,
+      "description": "The life and reign of Queen Elizabeth II of the United Kingdom.",
+      "cast": ["Olivia Colman", "Helena Bonham Carter", "Tobias Menzies"],
+      "genre": ["Drama", "History", "Biography"],
+      "imageUrl": "https://image.tmdb.org/t/p/original/1M876KPjulVwppEpldhdc8V4o68.jpg",
+      "watchUrl": "https://www.netflix.com/title/80025678"
+    },
+    {
+      "name": "Narcos",
+      "rating": 8.8,
+      "description": "The story of drug kingpins in Colombia and the fight against them.",
+      "cast": ["Wagner Moura", "Pedro Pascal", "Boyd Holbrook"],
+      "genre": ["Crime", "Drama", "Biography"],
+      "imageUrl": "https://m.media-amazon.com/images/I/81nTw+95MyL._AC_UF894,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80025172"
+    },
+    {
+      "name": "Dark",
+      "rating": 8.8,
+      "description": "Four families uncover time travel and unravel dark secrets in a small German town.",
+      "cast": ["Louis Hofmann", "Maja Schöne", "Lisa Vicari"],
+      "genre": ["Sci-Fi", "Thriller", "Mystery"],
+      "imageUrl": "https://m.media-amazon.com/images/I/41Fv9HYZgAL._AC_UF1000,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80100172"
+    },
+    {
+      "name": "Black Mirror",
+      "rating": 8.8,
+      "description": "A series of stand-alone dramas exploring tech’s impact on society.",
+      "cast": ["Daniel Kaluuya", "Jon Hamm", "Bryce Dallas Howard"],
+      "genre": ["Sci-Fi", "Drama", "Thriller"],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWY3ZjgwMTctZTZmMS00ZTMwLTkwYWEtNTVkMDgwNjA5ODBiXkEyXkFqcGc@._V1_.jpg",
+      "watchUrl": "https://www.netflix.com/title/70264888"
+    },
+    {
+      "name": "Lucifer",
+      "rating": 8.1,
+      "description": "The Devil leaves Hell to live in Los Angeles and run a nightclub.",
+      "cast": ["Tom Ellis", "Lauren German", "Kevin Alejandro"],
+      "genre": ["Crime", "Drama", "Fantasy"],
+      "imageUrl": "https://m.media-amazon.com/images/I/51zNY3fpmWL._AC_UF1000,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80057918"
+    },
+    {
+      "name": "The Umbrella Academy",
+      "rating": 7.9,
+      "description": "Estranged siblings with superpowers reunite to solve their father's death.",
+      "cast": ["Elliot Page", "Tom Hopper", "David Castañeda"],
+      "genre": ["Action", "Adventure", "Comedy"],
+      "imageUrl": "https://images-cdn.ubuy.co.in/66881d1c3b70db591a3ebddc-the-umbrella-academy-season-3-movie.jpg",
+      "watchUrl": "https://www.netflix.com/title/80186863"
+    },
+    {
+      "name": "Mindhunter",
+      "rating": 8.6,
+      "description": "FBI agents delve into criminal psychology to understand serial killers.",
+      "cast": ["Jonathan Groff", "Holt McCallany", "Anna Torv"],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/k0zlsi80/poster/6/u/2/medium-mindhunter-tv-series-poster-for-room-office-13-inch-x-19-original-imafknmcphdyuywh.jpeg?q=20&crop=false",
+      "watchUrl": "https://www.netflix.com/title/80114855"
+    },
+    {
+      "name": "BoJack Horseman",
+      "rating": 8.7,
+      "description": "A washed-up actor in a world of humans and anthropomorphic animals struggles with life.",
+      "cast": ["Will Arnett", "Amy Sedaris", "Alison Brie"],
+      "genre": ["Animation", "Comedy", "Drama"],
+      "imageUrl": "https://m.media-amazon.com/images/I/81rWzZRpFYL._AC_UF1000,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/70300800"
+    },
+    {
+      "name": "You",
+      "rating": 7.7,
+      "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "cast": ["Penn Badgley", "Victoria Pedretti", "Ambyr Childers"],
+      "genre": ["Crime", "Drama", "Romance"],
+      "imageUrl": "https://image.tmdb.org/t/p/original/7bEYwjUvlJW7GerM8GYmqwl4oS3.jpg",
+      "watchUrl": "https://www.netflix.com/title/80124522"
+    },
+    {
+      "name": "13 Reasons Why",
+      "rating": 7.5,
+      "description": "A teenager uncovers the reasons behind her friend's tragic decision to end her life.",
+      "cast": ["Dylan Minnette", "Katherine Langford", "Christian Navarro"],
+      "genre": ["Drama", "Mystery"],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNThjYzQ3ZjYtM2I0ZC00OGNjLTlmNGItYjE3ZWI5MWIyMWYyXkEyXkFqcGc@._V1_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80117470"
+    },
+    {
+      "name": "House of Cards",
+      "rating": 8.7,
+      "description": "A cunning congressman and his equally ambitious wife navigate the halls of power in Washington, D.C.",
+      "cast": ["Kevin Spacey", "Robin Wright", "Michael Kelly"],
+      "genre": ["Drama", "Thriller"],
+      "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kokdci80/poster/z/o/v/medium-house-of-cards-poster-pp0207-original-imag3y5x7wyfepqg.jpeg?q=90&crop=false",
+      "watchUrl": "https://www.netflix.com/title/70178217"
+    },
+    {
+      "name": "The Queen's Gambit",
+      "rating": 8.6,
+      "description": "An orphaned chess prodigy struggles with addiction in her quest to become the greatest player in the world.",
+      "cast": ["Anya Taylor-Joy", "Bill Camp", "Marielle Heller"],
+      "genre": ["Drama"],
+      "imageUrl": "https://m.media-amazon.com/images/I/711GXj-LPhS.jpg",
+      "watchUrl": "https://www.netflix.com/title/80234304"
+    },
+    {
+      "name": "The Haunting of Hill House",
+      "rating": 8.6,
+      "description": "Flashbacks reveal a fractured family's experience in a haunted house.",
+      "cast": ["Michiel Huisman", "Carla Gugino", "Henry Thomas"],
+      "genre": ["Drama", "Horror", "Mystery"],
+      "imageUrl": "https://m.media-amazon.com/images/I/91UiNfaICaS.jpg",
+      "watchUrl": "https://www.netflix.com/title/80189221"
+    },
+    {
+      "name": "Squid Game",
+      "rating": 8.0,
+      "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children’s games.",
+      "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-jun"],
+      "genre": ["Action", "Drama", "Mystery"],
+      "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/h/d/k/medium-squid-game-hd-poster-for-wall-decor-a3-poster-squid-game-original-imagv2vxrqtudpet.jpeg?q=20&crop=false",
+      "watchUrl": "https://www.netflix.com/title/81040344"
+    },
+    {
+      "name": "Bridgerton",
+      "rating": 7.3,
+      "description": "Wealthy families navigate love and scandal in Regency-era London.",
+      "cast": ["Phoebe Dynevor", "Regé-Jean Page", "Nicola Coughlan"],
+      "genre": ["Drama", "Romance"],
+      "imageUrl": "https://m.media-amazon.com/images/I/81kWMnXMjdL._AC_UF1000,1000_QL80_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80232398"
+    },
+    {
+      "name": "Lost in Space",
+      "rating": 7.3,
+      "description": "A family of space colonists finds itself stranded on an unknown planet.",
+      "cast": ["Molly Parker", "Toby Stephens", "Maxwell Jenkins"],
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzViNDBjNDMtMmYxOS00ZDcyLTk4NGQtZGQwMmIyODc2NGZmXkEyXkFqcGc@._V1_.jpg",
+      "watchUrl": "https://www.netflix.com/title/80104198"
+    }
+  ]
+  
