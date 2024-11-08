@@ -6,15 +6,6 @@ export default function App(){
     <Header/>
     <div className="parent">
     <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
-    <NetFlix/>
     </div>
     <div style={{clear:'both'}}>
       <Footer/>
