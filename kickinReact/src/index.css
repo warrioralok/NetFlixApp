@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .container{
   width: 500px;
   min-height: 300px;
@@ -22,6 +26,8 @@ body{
 }
 .container a{
   text-decoration: none;
+  margin-top: 20px;
+  display: inline-block;
 }
 .container div.watchButton{
   background-color: #c6c6c6;
@@ -33,6 +39,7 @@ body{
   border-radius: 5px;
   margin-left: 0px;
   cursor: pointer;
+  height: 40px;
 }
 .des{
   font-size: 12px;
