@@ -1,4 +1,6 @@
 // import PropTypes from 'prop-types';
+import styless from './SeriesCard.module.css';
+
 export const SeriesCard = ({index}) =>{
 
    const {name, imageUrl,rating, description,cast,genre, watchUrl} = index;
@@ -8,7 +10,7 @@ export const SeriesCard = ({index}) =>{
         <img src={imageUrl} alt="img/poster.jpg" height="30%" width="40%"/>
         <div>
           <h3>Name: {name}</h3>
-          <h4>Rating : <span className={`rating ${rating >= 8.5 ? 'superhit' : 'average'}`}>{rating}</span></h4>
+          <h4>Rating : <span className={`${styless.rating} ${rating >= 8.5 ? styless.superhit : styless.average}`}>{rating}</span></h4>
           <p className='des'>{description}</p>
           <p style={{fontFamily:'math',fontWeight:'bold'}}>Cast: {cast}</p>
           <p>Category : {genre}</p>
