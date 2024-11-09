@@ -1,4 +1,5 @@
 import seriesData from '../api/seriesData.json';
+import { SeriesCard } from './SeriesCard';
 
 const NetFlix = () =>{
 //   let name = 'DareDevil';
@@ -8,18 +9,9 @@ const NetFlix = () =>{
   return(
   <>
   {seriesData.map((index) =>{
-      return <div className="container" key={index.name}>
-        <img src={index.imageUrl} alt="img/poster.jpg" height="30%" width="40%"/>
-        <div>
-          <h3>Name: {index.name}</h3>
-          <h4>Rating : {index.rating}</h4>
-          <p className='des'>{index.description}</p>
-          <p>Cast: {index.cast}</p>
-          <p>Category : {index.genre}</p>
-          {/* { age >= 18  && <div className="watchButton">Watch Now</div> } */}
-          <a href={index.watchUrl} target='_blank'><div className="watchButton">Watch Now</div></a>
-        </div>
-    </div>
+      return (
+        <SeriesCard key={index.name} index={index}/>
+      )
     })}
   </>
   )
@@ -33,7 +25,7 @@ export const Footer = () => {
 
 export const Header = () =>{
     return(
-        <header><img src="https://loodibee.com/wp-content/uploads/Netflix-logo.png" alt="" /></header>
+        <header>NetFlix</header>
     )
 }
 export default NetFlix;
