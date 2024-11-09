@@ -10,10 +10,14 @@ export const SeriesCard = ({index}) =>{
         <img src={imageUrl} alt="img/poster.jpg" height="30%" width="40%"/>
         <div>
           <h3>Name: {name}</h3>
-          <h4>Rating : <span className={`${styless.rating} ${rating >= 8.5 ? styless.superhit : styless.average}`}>{rating}</span></h4>
-          <p className='des'>{description}</p>
-          <p>Cast: {cast}</p>
-          <p>Category : {genre}</p>
+          <h4 className='my-2'>Rating : <span className={`${styless.rating} ${rating >= 8.5 ? styless.superhit : styless.average}`}>{rating}</span></h4>
+          <p className='des my-3'>{description}</p>
+          <p>Cast: {cast.map((cast)=>{
+            return cast
+          }).join(', ')}</p>
+          <p>Category : {genre.map((index) => {
+            return index;
+          }).join(',')}</p>
           {/* { age >= 18  && <div className="watchButton">Watch Now</div> } */}
           <a href={watchUrl} target='_blank'><div className="watchButton">Watch Now</div></a>
         </div>

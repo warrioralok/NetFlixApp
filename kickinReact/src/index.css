@@ -4,8 +4,8 @@
 
 .container{
   width: 500px;
-  min-height: 300px;
-  max-height: 300px;
+  min-height: 350px;
+  max-height: 350px;
   margin: 0 auto;
   display: flex;
   flex-direction: row;
@@ -47,7 +47,7 @@ body{
 header{
   padding: 20px 0px 20px 110px;
   color: #E50914 ;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
 }
 .footer{
