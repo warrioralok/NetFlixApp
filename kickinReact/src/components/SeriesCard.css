@@ -1,0 +1,12 @@
+.superhit{
+    background-color: #7dcea0;
+}
+.average{
+    background-color: #f7dc6f;
+}
+.rating{
+    padding: 0.3rem 1.8rem;
+    color: black;
+    margin-left: 1.2rem;
+    border-radius: 100rem;
+}
